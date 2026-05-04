@@ -15,17 +15,17 @@
            I, quite frankly, missed the sun of South Africa. I also wanted to get my hands a bit dirtier when
            it came to my career and had an itch to get back into the wonderful world of hardware and electronics
 
-02:00 -    Fortuantely, that itch was soon scratched when I joined HYENA as a Staff Engineer. A startup on the
-           sunny, albeith windy, beaches of Muzimberg in Cape Town. Originally a spin out form UCT.
-           HYENA aims to make the science fiction world of Fuel Cells a reality.
-           And we are doing jus that, and specifically with a focus on the African market and
-           our rather unique electrical grid and user needs.
+02:00 -    Fortuantely, that itch was soon scratched when I joined HYENA as a Staff Systesm Engineer. A startup on the
+           sunny, albeith windy, beaches of Muzimberg in Cape Town. HYENA originated as a spin out form UCT.
+           And we are a rather ambition group. Our main goal is to make the apparent science fiction world of Fuel Cells a reality.
+           And we are doing jus that, with a focus on the local African market and
+           our rather unique electrical needs.
 
-03:00 -    Now, before we dive into the software. We should first discuss what a fuel cell is. and how we go around
-           even using one. A Fuel cell, at it's core is simply a device which converts the chemical energy in
+03:00 -    Now, before we dive into the core of this talk. We should first discuss what a fuel cell is. and how we go around
+           even using one. At it's heart, a fuel cell is simply a device which converts the chemical energy in
            in hydrogen to electrical energy. We can then use this electrical energy for all sorts of wonderful things.
 
-05:00 -    Fuel Cell technology has been around for some time. Originally invented in 1839 by Sir william Christian Grove.
+05:00 -    Fuel Cell technology has been around for some time. Originally invented in 1839 by Sir William Christian Grove.
            The use of fuel cells was highly publicized in the 1960s when they were used on the Gemeini and Apollo space programs,
            and more recently, have been demonstrated to be usable in the transport and stationary power industries.
            Fuel cells, by their nature, require hydrogen. Hydrogen is not so easy to come by, and due to it's size requires
